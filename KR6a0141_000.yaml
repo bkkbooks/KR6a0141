@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0141/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說十一想思念如來經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0138.xml
+    old_id: T02n0138
+hash: sha256:7f693a80127450f3f7689f3c28d3f67feb7db4c154f9a442f56181ec934b1c37
