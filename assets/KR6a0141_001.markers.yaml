@@ -14,10 +14,8 @@ markers:
   - {type: xml-element, offset: 14, content: '', id: pT02p0861a1401_end, name: p, role: close, attrs: {'xml:id': pT02p0861a1401}}
   - {type: xml-element, offset: 14, content: '', id: pT02p0861a1404, name: p, role: open, attrs: {'xml:id': pT02p0861a1404, 'cb:place': inline}}
   - {type: punctuation, offset: 16, content: ，, id: KR6a0141_T_001-bkkpn2}
-  - {type: substitution, offset: 21, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
   - {type: punctuation, offset: 28, content: ，, id: KR6a0141_T_001-bkkpn3}
   - {type: line-break, offset: 28, content: '', id: KR6a0141_T_001-0861a15, ed: T, 'n': 0861a15}
-  - {type: substitution, offset: 32, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: variant, offset: 33, length: 1, content: 二, 宋: 千二, 元: 千二, 明: 千二}
   - {type: punctuation, offset: 39, content: 。, id: KR6a0141_T_001-bkkpn4}
   - {type: punctuation, offset: 41, content: ，, id: KR6a0141_T_001-bkkpn5}
@@ -150,4 +148,4 @@ markers:
   - {type: xml-element, offset: 402, content: '', id: pT02p0861b0612_end, name: p, role: close, attrs: {'xml:id': pT02p0861b0612, 'cb:place': inline}}
   - {type: line-break, offset: 402, content: '', id: KR6a0141_T_001-0861b08, ed: T, 'n': 0861b08}
   back: []
-hash: sha256:a835f2e11623d9661f1aefeb3e778105b38f3470f26654309f31b518ab7360c9
+hash: sha256:4010bb51fa603fb2c66b43fd60b1489e52fe5562afa240863988861de958cc7d
