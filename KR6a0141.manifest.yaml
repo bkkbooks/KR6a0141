@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0141/v1
 canonical_location: https://kanripo.org/bkk/KR6a0141/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說十一想思念如來經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0141_000.yaml, hash: 'sha256:7f693a80127450f3f7689f3c28d3f67feb7db4c154f9a442f56181ec934b1c37'}
-  - {seq: 1, filename: KR6a0141_001.yaml, hash: 'sha256:91712d6715e6695091737a499fb2756e5046d9a6ac0a70f085ec09ead0ea90be'}
+  - {seq: 1, filename: KR6a0141_001.yaml, hash: 'sha256:6dffbcb3b8d6a45c2be573f8aff395c49fd851d2cecc79065728f81759a0f5b0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0141_000.markers.yaml, hash: 'sha256:27656bbf856474d8003d319f9a3d0d8f4c8ab954978924d2aa03fa1535b1dab4'}
-  - {seq: 1, role: markers, filename: assets/KR6a0141_001.markers.yaml, hash: 'sha256:4010bb51fa603fb2c66b43fd60b1489e52fe5562afa240863988861de958cc7d'}
+  - {seq: 1, role: markers, filename: assets/KR6a0141_001.markers.yaml, hash: 'sha256:530861bd5ae0bdc9701dbbbee7f5e3c3703031a924315e8693ecd747ff27d48b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說十一想思念如來經
   type: juan
   level: 1
-hash: sha256:757ef494c4971a71a55143dde62ed584dec48e5e69571fe979e322d1690c0599
+hash: sha256:fbdc3416fd10839719ef681be17d20b009b77cb2eebd03e64018f74b0555b751
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
