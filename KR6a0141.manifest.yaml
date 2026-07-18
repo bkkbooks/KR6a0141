@@ -30,7 +30,7 @@ assets:
   - {seq: 0, filename: KR6a0141_000.yaml, hash: 'sha256:7f693a80127450f3f7689f3c28d3f67feb7db4c154f9a442f56181ec934b1c37'}
   - {seq: 1, filename: KR6a0141_001.yaml, hash: 'sha256:6dffbcb3b8d6a45c2be573f8aff395c49fd851d2cecc79065728f81759a0f5b0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0141_000.markers.yaml, hash: 'sha256:27656bbf856474d8003d319f9a3d0d8f4c8ab954978924d2aa03fa1535b1dab4'}
+  - {seq: 0, role: markers, filename: assets/KR6a0141_000.markers.yaml, hash: 'sha256:4bff9133e0ee65266f9826553037baa2c4079491ffe269807876d53a608da719'}
   - {seq: 1, role: markers, filename: assets/KR6a0141_001.markers.yaml, hash: 'sha256:530861bd5ae0bdc9701dbbbee7f5e3c3703031a924315e8693ecd747ff27d48b'}
 table_of_contents:
 - ref:
@@ -43,7 +43,7 @@ table_of_contents:
   label: 佛說十一想思念如來經
   type: juan
   level: 1
-hash: sha256:fbdc3416fd10839719ef681be17d20b009b77cb2eebd03e64018f74b0555b751
+hash: sha256:a0bea4f5bac4fe7fd1c56fe0f533b2d8c1893a01caebf23461529156dc79cf7d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

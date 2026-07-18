@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0141_000-T.yaml, hash: 'sha256:7f693a80127450f3f7689f3c28d3f67feb7db4c154f9a442f56181ec934b1c37'}
   - {seq: 1, filename: KR6a0141_001-T.yaml, hash: 'sha256:91712d6715e6695091737a499fb2756e5046d9a6ac0a70f085ec09ead0ea90be'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0141_000-T.markers.yaml, hash: 'sha256:5ea2530fb39dfe93473b2fc2581c4210addf3b391766d57a7e8a13f65588936a'}
+  - {seq: 0, role: markers, filename: assets/KR6a0141_000-T.markers.yaml, hash: 'sha256:37c1120a1d8467c50cd14675d7065043f5bced5979df271fb958494c93180a86'}
   - {seq: 1, role: markers, filename: assets/KR6a0141_001-T.markers.yaml, hash: 'sha256:d29532785ec7aa85ad0825b963dce5519d49c9235bf6fba31452a66a9e5ecca2'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說十一想思念如來經
   type: juan
   level: 1
-hash: sha256:494370cdcd2e90b8af39142daf8bc25f7ade0fbd16234b0b088e7edbf5799c5d
+hash: sha256:b0865753d348f88eb741df6156d4c986b62ea8e18560c21359b6c47ac130c798
